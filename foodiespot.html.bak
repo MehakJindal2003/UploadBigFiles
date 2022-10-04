@@ -1,0 +1,152 @@
+<!doctype html>
+<head>
+<!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="foodiecss.css">
+</head>
+<body>
+<div class="firstpart">
+    <div class="signheader">
+	    <div class="header1">
+		    Foodies<b style="color:red;">S</b>pot
+		</div>
+		<div class="header2">
+		    <a href="guidelines.html">General</a>
+		</div>
+		<div class="header3">
+		    <a href="onlineorder.html">Online Ordering</a>
+		</div>
+		<div class="header4">
+		    <a href="">Foodies<b style="color:red;">S</b>pot</a>
+		</div>
+		<div class="header5">
+		    <form action="">
+			    <select size="1" class="inputinput">                                                         
+				    <option selected>English</option>
+					<option>Portugese</option>
+					<option>Turkish</option>
+					<option>Hindi</option>
+					<option>Vietnamese</option>
+					<option>Espanol</option>
+					<option>Capitulo</option>
+					<option>Indonesian</option>
+					<option>Italian</option>
+					<option>Polish</option>
+					<option>French</option>
+					<option>African</option>
+					<option>German</option>
+					<option>Chinese</option>
+					<option>Japanese</option>
+					<option>Korean</option>
+					<option>Russian</option>
+				</select>
+			</form>
+		</div>
+	</div>
+</div>
+
+
+
+
+
+
+<div class="secondpart" id="thispage">
+    <div class="box1">
+	        <div class="box111"><a href="#thisisthepage" class="oo">Foodies<b style="color:red;">S</b>pot pay</a></div>
+    </div>
+	
+	
+	
+	
+	
+	<div class="box2">
+	    <div class="box21" id="thisisthepage">
+		    <h1><u><b>Terms and Conditions of Merchant Enrolment Form for Foodies<b style="color:red;">S</b>pot Pay (“Terms”)</b></u></h1>
+			<p>These Terms form an integral part of the Merchant Enrolment Form for Foodies<b style="color:red;">S</b>pot Pay ("Form") and constitute a legally binding agreement made between you, whether personally or on behalf of an entity (the "Merchant"), and Foodies<b style="color:red;">S</b>pot pay Limited (Formerly known as Foodies<b style="color:red;">S</b>pot pay Private Limited and Foodies<b style="color:red;">S</b>pot pay Media Private Limited) ("Foodies<b style="color:red;">S</b>pot pay"), wherein the Merchant agrees to allow the Customers to pay the Bill Value using Foodies<b style="color:red;">S</b>pot Pay. The Merchant may also choose to extend a Discount to the Customers paying the Bill Value through Foodies<b style="color:red;">S</b>pot Pay (“Foodies<b style="color:red;">S</b>pot Pay”).</p>
+	        <br><br><br>
+			<h2>1. MERCHANT COVENANT’S</h2>
+	        <p>a. The Merchant hereby agrees to allow Customers to pay the Net Sales for an Order using Foodies<b style="color:red;">S</b>pot Pay.</p>
+	        <p>The Merchant will determine the Discount via the Foodies<b style="color:red;">S</b>pot Dashboard, which will be honoured by the Merchant until disabled.</p>
+	        <p>The Merchant hereby permits Foodies<b style="color:red;">S</b>pot to advertise and offer the Discount to the Customer on behalf of the Restaurant.</p>
+			<p>The Merchant hereby agrees not to extend any offer/discounts similar or lower to the Discount agreed during the period of its validity to the Customer directly or through any third party.</p>
+			<p>The Merchant hereby agrees that where it levies service charge at its Restaurant, it shall apply the same uniformly to all the customers availing services of the Restaurant and shall not in any event discriminate in levying the service charge between a Foodies<b style="color:red;">S</b>pot Customer and any other customer.</p>
+			<p>The Merchant permits Foodies<b style="color:red;">S</b>pot to deduct the Commission from the Net Sales and transfer such remaining amounts to the Merchant in accordance with the payment settlement process set out in the Form.</p>
+			<p>The Merchant hereby permits Foodies<b style="color:red;">S</b>pot to contact the Merchant by phone, email, SMS, or other modes of communication, for the purpose of giving feedback or for the purpose of facilitation of any issue in connection with the terms of the Form and these Terms.</p>
+	         
+	        <br><br><br>
+			<h2>2. PAYMENT SETTLEMENT PROCESS</h2>
+			<p>The Merchant acknowledges and agrees that any Net Sales and Tips (if any) which is collected by Foodies<b style="color:red;">S</b>pot for, and on behalf of the Merchant in accordance with these Terms, shall be passed on by Foodies<b style="color:red;">S</b>pot to the Merchant subject to the deduction of the below mentioned amounts by Foodies<b style="color:red;">S</b>pot:</p>
+	        <ol type="1">
+			<li> Commission and any taxes as applicable thereon;</li>
+			<li> Payment Gateway Fee;</li>
+			<li>Taxes as applicable;</li>
+			<li>The Merchant acknowledges and agrees that all amounts that are payable to Foodies<b style="color:red;">S</b>pot under these Terms shall be exclusive of the applicable taxes and that all applicable taxes will be charged separately.</li>
+			<li>If the Payment Settlement Day falls on a bank holiday/or a non -business day, the payment shall be processed on the next working day.</li>
+			<li>The Parties acknowledge and agree that after the deduction of the aforementioned amount set out in Clause 5 (a) and 5 (b), Foodies<b style="color:red;">S</b>pot shall remit the Net Sales due to the Merchant as per the Payment Settlement Day set out in the Form.</li>
+			<li>Foodies<b style="color:red;">S</b>pot shall share a monthly TCS statement along with an invoice with Merchant to report transactions undertaken during the month in its applicable returns.</li>
+	        </ol>
+			<br><br><br>
+			<h2>3. TERM AND TERMINATION</h2>
+			<p>a. The arrangement between the parties shall commence from the Commencement Date and shall be valid and binding on the parties, unless terminated in accordance with these Terms.
+
+            </p><p>b. Either Party may terminate the Form and the Terms by issuing a 45 (forty five) days prior written notice of termination to the other Party.
+
+            </p><p>c. Notwithstanding anything to the contrary contained herein, above, Foodies<b style="color:red;">S</b>pot may forthwith terminate the agreement or suspend the Restaurant if :
+
+            </p><p>d. the Merchant is in breach of these Terms and/or the terms and conditions of the Form, which, in the case of a capable of remedy, is not remedied within 14 days after intimation is given to the Merchant specifying the default.
+
+            </p><p>e. upon the happening of any of the insolvency events such as bankruptcy, appointment of receiver, administrator, liquidator, winding up, or dissolution;
+
+            </p><p>f. the Merchant fails to comply with applicable law;
+
+            </p><p>g. The Merchant hereby agrees and acknowledges that Foodies<b style="color:red;">S</b>pot shall exercise its right to terminate the Form and the Terms in accordance to Clause 6 above and the arrangement shall be deemed to be completed and fulfilled with the Merchant by Foodies<b style="color:red;">S</b>pot without any liability to the Merchant under the Form and these Terms.</p>
+	
+	        <br><br><br>
+			<h2>4. CONFIDENTIALITY</h2>
+			<p>Any confidential or proprietary information of either party, whether of a technical, business or other nature, including, but not limited to consumer information/ Customer Data, trade secrets, know-how, technology and information relating to customers, business plans, promotional and marketing activities, finances and other business affairs, including but not limited to these Terms (collectively, “Confidential Information”) disclosed to the receiving party by the disclosing party, including Confidential Information disclosed before the date of signing the Form, will be treated by the receiving party as confidential and proprietary. These Terms shall be considered Foodies<b style="color:red;">S</b>pot’s Confidential Information. Unless specifically authorized by the disclosing party, the receiving party will: (a) not use such Confidential Information except as authorized by the disclosing party; (b) not disclose such Confidential Information to any third party; and (c) otherwise protect such Confidential Information from unauthorized use and disclosure to the same extent that it protects its own Confidential Information of a similar nature. This section will not apply to any information that: (i) was already known to the receiving party, other than under an obligation of confidentiality, at the time of disclosure by the disclosing party; (ii) was generally available to the public or otherwise part of the public domain at the time of its disclosure to the receiving party; (iii) became generally available to the public or otherwise part of the public domain after its disclosure and other than through any act or omission of the receiving party in breach of these Terms; (iv) was disclosed to the receiving party, other than under an obligation of confidentiality, by a third party who had no obligation to the other party not to disclose such information to others; or (v) was developed independently by the receiving party without any use of Confidential Information.</p>
+	        <br><br><br>
+			
+			<h2>5. WARRANTY AND INDEMNITY</h2>
+			<p>a. Merchant warrants that if the Merchant ceases to do business, closes operations for a material term, then the Merchant shall provide Foodies<b style="color:red;">S</b>pot a prior 30 (thirty) days written notice, failing which the Merchant shall indemnify Foodies<b style="color:red;">S</b>pot for any claims or dispute that may arise on account the aforementioned acts of the Merchant.
+
+            </p><p>b. The Merchant hereby unconditionally represents to Foodies<b style="color:red;">S</b>pot that it shall at all times be in compliance of the conditions imposed upon it by any license issued by any rule/regulation/statute.
+
+            </p><p>c. Merchant will ensure that it complies with and remains in compliance with all applicable Indian laws and all other applicable legislation, regulations or standards.
+
+            </p><p>d. The Merchant agrees to indemnify and holds Foodies<b style="color:red;">S</b>pot harmless (and its directors, officers, agents, representatives and employees) from and against any and all claims, suits, liabilities, judgments, losses and damages arising out of or in connection with any claim or suit or demand:
+
+            </p><p>e. on account of breach of these Terms by the Merchant;
+
+            </p><p>f. in respect of, arising out of, or in connection with the Discount extended by the Merchant;
+
+            </p><p>g. the quality of the Goods offered by the Merchant.
+
+            </p><p>h. any statutory proceedings which may arise out of any acts of omission or commission by the Merchant in relation to the applicable excise laws.
+
+            </p><p>i. on account of any non-compliance of a condition under the license issued by any rule/regulation/statute.
+
+            </p><p>j. Foodies<b style="color:red;">S</b>pot warrants that it will undertake its obligations with reasonable skill and care. Foodies<b style="color:red;">S</b>pot does not guarantee or warrant that the Application will be free from defects or malfunctions. If errors occur, it will use its best endeavours to resolve these as quickly as possible.</p>
+			
+		</div>
+		
+		
+		
+		
+		<div class="box22">
+		    <ul type="circle">
+			    <li><h2><b>Merchant Covenant's</b></h2></li>
+				<li><h2><b>PAYMENT SETTLEMENT PROCESS</b></h2></li>
+				<li><h2><b>TERM AND TERMINATION</b></h2></li>
+				<li><h2><b>CONFIDENTIALITY</b></h2></li>
+				<li><h2><b>WARRANTY AND INDEMNITY</b></h2></li>
+			
+			</ul>
+		</div>
+	</div>
+</div>
+</body>
+</html>
+			
+			
+			

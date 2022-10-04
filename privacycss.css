@@ -1,0 +1,113 @@
+.firstpart{
+	border:2px solid black;
+	border-radius:5px 5px 0 0;
+	background-image:linear-gradient(to right,#A020F0,#CA8DFD,#FFEFFF,#CA8DFD,#A020F0);
+}
+.signheader{
+	display:flex;
+	flex-direction:row;
+	position: relative;
+    justify-content: space-between;
+    text-align: center;
+	height:150px;
+}
+.header1{
+	font-size:50px;
+	margin:10px;
+	font-weight:700;
+	margin-top:40px;
+}
+.header2{
+	color:red;
+	background-color:pink;
+	margin-bottom:50px;
+	border:2px solid black;
+	border-radius:10px;
+}
+.header2,.header3,.header4{
+	font-size:30px;
+	margin-top:55px;
+	text-decoration:none;
+	margin-right:40px;
+}
+.header2:hover{
+	border-radius:10px;
+	background-color:#F5F5F5;
+	margin-bottom:50px;
+}
+.header3:hover{
+	border-radius:10px;
+	background-color:#F5F5F5;
+	margin-bottom:50px;
+}
+.header4:hover{
+	border-radius:10px;
+	background-color:#F5F5F5;
+	margin-bottom:50px;
+}
+.inputinput{
+	font-size:20px;
+	height:40px;
+	margin:20px;
+	margin-top:55px;
+	border:2px solid #A020F0;
+	border-radius:10px;
+	color:red;
+	background-color:#F5F5F5;
+}
+.secondpart{
+	display:flex;
+	flex-direction:row;
+	border-radius:0 0 10px 10px;
+	border:2px solid black;
+	background-image:linear-gradient(to right,grey 70%,pink,white,pink);
+}
+.box1{
+	position:fixed;
+	height:100%;
+	margin-top:30px;
+	margin-left:8px;
+}
+.box111,.box112,.box113,.box114,.box115,.box116{
+	font-size:25px;
+	border:2px solid #A020F0;
+	border-radius:10px;
+	line-height:300%;
+}
+.box112{
+	width:280px;
+	background-color:pink;
+}
+.box111,.box113,.box114,.box115,.box116{
+	width:250px;
+	background-color:white;
+}
+.box2{
+	margin-left:300px;
+}
+.privacypolicy{
+	display:flex;
+	flex-direction:row;
+    border-left:2px solid grey;
+	padding-right:40px;
+	margin-left:300px;
+}
+.box21{
+	padding-right:40px;
+	padding-left:40px;
+	font-size:20px;
+	background-image:linear-gradient(to right,yellow,white,yellow);
+}
+.box22{
+	border-left:2px solid grey;
+	font-size:25px;
+}
+h1{
+	color:red;
+}
+h2{
+	color:blue;
+}
+h3{
+	color:green;
+}

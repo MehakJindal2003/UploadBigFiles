@@ -1,0 +1,67 @@
+.partners{
+	font-size:35px;
+	background-image:linear-gradient(to right,#A020F0,purple,#A020F0,purple,#A020F0,purple,#A020F0);
+	color:white;
+	padding-left:580px;
+	height:70px;
+	padding-bottom:50px;
+	margin-bottom:50px;
+	padding-top:10px;
+}
+.footer{
+	background-color:black;
+	height:200px;
+}
+.head{
+	color:white;
+	font-size:25px;
+	padding-left:650px;
+	padding-top:40px;
+}
+.container{
+	display:flex;
+	flex-direction:row;
+	position: relative;
+    justify-content: space-between;
+    text-align: center;
+	padding-left:140px;
+	padding-right:140px;
+	padding-top:60px;
+}
+.insta{
+	display:flex;
+	flex-direction:row;
+}
+.insta2{
+	color:white;
+	font-size:23px;
+	padding-top:1px;
+}
+.insta:hover{
+	background-color:grey;
+	color:red;
+	border-radius:20px;
+}
+.insta11{
+	border-radius:25px;
+}
+.nextpage{
+	margin-top:50px;
+}
+.button{
+	margin-left:570px;
+	width:420px;
+    border:4px solid red;
+	border-radius:20px;
+	color:red;
+	height:90px;
+	margin-bottom:50px;
+	font-size:35px;
+}
+.button:hover{
+	background-image:linear-gradient(to right,pink 5%,orange,red);
+	color:white;
+}
+body{
+	background-image:linear-gradient(to bottom,pink,white,pink,white,pink,white,pink,white,pink,white,pink,white,pink);
+}

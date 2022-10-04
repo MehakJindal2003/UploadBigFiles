@@ -1,0 +1,187 @@
+*{
+	transition: all 1s ease-out;
+}
+html{
+    scroll-behavior: smooth;
+}
+.combos{
+	border:4px solid black;
+	border-radius:10px;
+	outline:4px dashed green;
+	outline-offset:-15px;
+	background-color:#CBC3E3;
+}
+.firsthead{
+	font-size:45px;
+	font-family:cursive;
+	padding-left:360px;
+	color:#A020F0;
+	text-decoration:underline;
+	margin-top:40px;
+	background-color:#FFDBE9;
+}
+.row1,.row2,.row3,.row4{
+	display:flex;
+	flex-direction:row;
+	position: relative;
+    justify-content: space-between;
+    text-align: center;
+	margin-left:170px;
+	margin-right:170px;
+	margin-top:50px;
+	margin-bottom:60px;
+}
+.imageimage{
+	height:500px;
+	width:500px;
+}
+.combos .row1 .image1{
+	overflow:hidden;
+	height:500px;
+	width:500px;
+	border-radius:10px;
+	border:4px solid #A020F0;
+	outline:4px dashed #FE019A;
+	outline-offset:5px;
+}
+.combos .row1 .image1 img{
+	width:100%;
+	height:100%;
+	object-fit:cover;
+}
+.combos .row1 .image1:hover img{
+	transform:scale(1.2);
+}
+.combos .row1 .image2{
+	overflow:hidden;
+	height:500px;
+	width:500px;
+	border-radius:10px;
+	border-radius:10px;
+	border:4px solid #A020F0;
+	outline:4px dashed #FE019A;
+	outline-offset:5px;
+}
+.combos .row1 .image2 img{
+	width:100%;
+	height:100%;
+	object-fit:cover;
+}
+.combos .row1 .image2:hover img{
+	transform:scale(1.2);
+}
+.combos .row2 .image3{
+	overflow:hidden;
+	height:500px;
+	width:500px;
+	border-radius:10px;
+	border-radius:10px;
+	border:4px solid #A020F0;
+	outline:4px dashed #FE019A;
+	outline-offset:5px;
+}
+.combos .row2 .image3 img{
+	width:100%;
+	height:100%;
+	object-fit:cover;
+}
+.combos .row2 .image3:hover img{
+	transform:scale(1.2);
+}
+.combos .row2 .image4{
+	overflow:hidden;
+	height:500px;
+	width:500px;
+	border-radius:10px;
+	border-radius:10px;
+	border:4px solid #A020F0;
+	outline:4px dashed #FE019A;
+	outline-offset:5px;
+}
+.combos .row2 .image4 img{
+	width:100%;
+	height:100%;
+	object-fit:cover;
+}
+.combos .row2 .image4:hover img{
+	transform:scale(1.2);
+}
+.combos .row3 .image5{
+	overflow:hidden;
+	height:500px;
+	width:500px;
+	border-radius:10px;
+	border-radius:10px;
+	border:4px solid #A020F0;
+	outline:4px dashed #FE019A;
+	outline-offset:5px;
+}
+.combos .row3 .image5 img{
+	width:100%;
+	height:100%;
+	object-fit:cover;
+}
+.combos .row3 .image5:hover img{
+	transform:scale(1.2);
+}
+.combos .row3 .image6{
+	overflow:hidden;
+	height:500px;
+	width:500px;
+	border-radius:10px;
+	border-radius:10px;
+	border:4px solid #A020F0;
+	outline:4px dashed #FE019A;
+	outline-offset:5px;
+}
+.combos .row3 .image6 img{
+	width:100%;
+	height:100%;
+	object-fit:cover;
+}
+.combos .row3 .image6:hover img{
+	transform:scale(1.2);
+}
+.combos .row4 .image7{
+	overflow:hidden;
+	height:500px;
+	width:500px;
+	border-radius:10px;
+	border-radius:10px;
+	border:4px solid #A020F0;
+	outline:4px dashed #FE019A;
+	outline-offset:5px;
+}
+.combos .row4 .image7 img{
+	width:100%;
+	height:100%;
+	object-fit:cover;
+}
+.combos .row4 .image7:hover img{
+	transform:scale(1.2);
+}
+.combos .row4 .image8{
+	overflow:hidden;
+	height:500px;
+	width:500px;
+	border-radius:10px;
+	border-radius:10px;
+	border:4px solid #A020F0;
+	outline:4px dashed #FE019A;
+	outline-offset:5px;
+}
+.combos .row4 .image8 img{
+	width:100%;
+	height:100%;
+	object-fit:cover;
+}
+.combos .row4 .image8:hover img{
+	transform:scale(1.2);
+}
+	
+	
+	
+	
+	
+	
+	

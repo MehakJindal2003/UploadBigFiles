@@ -1,0 +1,96 @@
+<!doctype html>
+<head>
+<!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+<script src="https://kit.fontawesome.com/4676f436ec.js" crossorigin="anonymous"></script>
+<link rel="stylesheet" href="login.css">
+</head>
+<body>
+<section class="loginloginlogin" id="loginloginlogin">
+<div class="loginlogin">
+    <img src="loginimage.png" class="loginimage">
+	<div class="loginpage">
+	    <div class="firstline">
+	        <div class="loginheading">
+	            <h2>Log in</h2>
+			</div>
+			<div class="loginicon">
+			    <a href="finalproject.html"><i class="fas fa-times"></i></a>
+			</div>
+		</div>
+		
+		    <div class="firstbox">
+			    <div class="indiaimage">
+			        <img src="loginindia.png" class="indiaflag" width="15" height="15">
+				</div>
+                <div class="logindropdown">			
+				    <form>
+					    <label></label>
+				        <select id="dropdown">
+					        <option selected><pre>India          +91</pre></option>
+							<option><pre>Afghanistan          +93</pre></option>
+							<option><pre>Albania          +355</pre></option>
+							<option><pre>Bahamas          +1242</pre></option>
+							<option><pre>Cambodia          +855</pre></option>
+							<option><pre>Denmark          +45</pre></option>
+							<option><pre>Egypt          +20</pre></option>
+							<option><pre>Fiji          +679</pre></option>
+							<option><pre>Gabon          +241</pre></option>
+							<option><pre>Haiti          +509</pre></option>
+							<option><pre>Iceland          +354</pre></option>
+							<option><pre>Japan          +81</pre></option>
+							<option><pre>Kenya          +254</pre></option>
+							<option><pre>Latvia          +371</pre></option>
+							<option><pre>Madagascar          +251</pre></option>
+							<option><pre>Nepal          +377</pre></option>
+							<option><pre>Oman          +968</pre></option>
+							<option><pre>Panama          +507</pre></option>
+					    </select>
+					</form>
+				</div>
+				<div class="phonenumber">
+				<form action="sendotp.html">
+					    <input placeholder="Phone Number" type="number" id="phone" required/>
+				
+				</div>
+			</div>
+			<div class="secondbox">
+			    
+			        <button class="loginbutton1" onclick="button()"><h3><b><u>Send OTP</u></b></h3></button>
+				
+			</div>
+			<script>
+			function button(){
+			var b=document.getElementById("phone").value;
+			if(b==null||b==""){
+			alert("Please enter your phone number");
+			}
+			}
+			</script>
+			
+		</form>
+			<div class="middleline">
+			    <pre>---------------------------<b>or</b>---------------------------</pre>
+			</div>
+			<div class="thirdbox">
+			    <form action="loginemail.html">
+				    <button class="loginbutton2"><b class="buttontext">Continue with E-mail</b></button>
+				</form>
+			</div>
+			<div class="fourthbox">
+			    <form action="">
+				    <button class="loginbutton3"><b class="buttontext">Continue with Google</b></button>
+				</form>
+			</div>
+			<div class="fifthbox">
+			    <div class="fifthpart1">New to Foodies<b class="s">S</b>pot ?</div>
+                <div class="fifthboxpart2"><a href="signuphtml.html" class="createaccount"><b>Create Account</b></a></div>
+            </div>
+	</div>
+</div>
+</section>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
+</body>
+</html>
+            			

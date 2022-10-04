@@ -1,0 +1,44 @@
+<!doctype html>
+<head>
+<!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="sendotpcss.css">
+</head>
+<body>
+<div class="sendotp">
+    <img src="loginotpimage.png" class="otpimage1">
+	  <form action="offers.html">
+	    <div class="enterotp">
+		    <div class="otpicon">
+			    <img src="otpicon.png" class="otpicon1">
+			</div>
+		    <div class="otp1">
+			    <input placeholder="Enter OTP" class="otp11" required/>
+			</div>
+			<div class="otp2">
+			    
+				    <button class="otp22" onclick="otp()"><h2><b>PROCEED</b></h2></button>
+		
+			</div>
+			
+			<script>
+			function otp(){
+			    var f=document.getElementsByClassName("otp11")[0].value;
+				    if(f==null||f==""){
+					    alert("Please enter OTP");
+						}
+					
+			}
+			</script>
+			
+			<div class="otp3">
+			    <h3><a href="#$$$" class="otp33">Resend OTP</a> if not recieved in 60 sec</h3>
+			</div>
+		</div>
+	  </form>
+</div>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
+</body>
+</html>
+			

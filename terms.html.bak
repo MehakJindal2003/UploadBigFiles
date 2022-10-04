@@ -1,0 +1,151 @@
+<!doctype html>
+<head>
+<!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="termscss.css">
+</head>
+<body>
+<div class="firstpart">
+    <div class="signheader">
+	    <div class="header1">
+		    Foodies<b style="color:red;">S</b>pot
+		</div>
+		<div class="header2">
+		    <a href="#thispage">General</a>
+		</div>
+		<div class="header3">
+		    <a href="onlineorder.html">Online Ordering</a>
+		</div>
+		<div class="header4">
+		    <a href="foodiespot.html">Foodies<b style="color:red;">S</b>pot</a>
+		</div>
+		<div class="header5">
+		    <form action="">
+			    <select size="1" class="inputinput">                                                         
+				    <option selected>English</option>
+					<option>Portugese</option>
+					<option>Turkish</option>
+					<option>Hindi</option>
+					<option>Vietnamese</option>
+					<option>Espanol</option>
+					<option>Capitulo</option>
+					<option>Indonesian</option>
+					<option>Italian</option>
+					<option>Polish</option>
+					<option>French</option>
+					<option>African</option>
+					<option>German</option>
+					<option>Chinese</option>
+					<option>Japanese</option>
+					<option>Korean</option>
+					<option>Russian</option>
+				</select>
+			</form>
+		</div>
+	</div>
+</div>
+
+
+
+
+
+<div class="secondpart" id="thisispage">
+    <div class="box1">
+        <div class="box11">
+	        <div class="box111"><a href="guidelines.html">Guidelines and Policies</a></div>
+		    <div class="box112"><a href="privacy.html">Privacy Policy</a></div>
+		    <div class="box113"><a href="#tos">Terms of Service</a></div>
+		    <div class="box114"><a href="api.html">API Policy</a></div>
+		    <div class="box115"><a href="license.html">License and Registration</a></div>
+		    <div class="box116"><a href="security.html">Security</a></div>
+        </div>
+    </div>
+	
+	
+	
+	
+	<!-------terms of service---->	
+	<div class="termsofservice" id="tos">
+	    <div class="box21" >
+		    <h1><u>Terms of Service</u></h1>
+			<h2>I. Acceptance of terms</h2>
+            <p>Thank you for using Foodies<b style="color:red;">S</b>pot. These Terms of Service (the "Terms") are intended to make you aware of your legal rights and responsibilities with respect to your access to and use of the Foodies<b style="color:red;">S</b>pot website at <a href="#!!!">www.Foodies<b style="color:red;">S</b>pot.com</a> (the "Site") and any related mobile or software applications ("Foodies<b style="color:red;">S</b>pot" Platform") including but not limited to delivery of information via the website whether existing now or in the future that link to the Terms (collectively, the "Services").</p>
+
+            <p>These Terms are effective for all existing and future Foodies<b style="color:red;">S</b>pot customers, including but without limitation to users having access to 'restaurant business page' to manage their claimed business listings.</p>
+
+            <p>Please read these Terms carefully. By accessing or using the Foodies<b style="color:red;">S</b>pot Platform, you are agreeing to these Terms and concluding a legally binding contract with Foodies<b style="color:red;">S</b>pot Limited (formerly known as Foodies<b style="color:red;">S</b>pot Private Limited and Foodies<b style="color:red;">S</b>pot Media Private Limited) and/or its affiliates (excluding Foodies<b style="color:red;">S</b>pot Foods Private Limited) (hereinafter collectively referred to as "Foodies<b style="color:red;">S</b>pot"). You may not use the Services if you do not accept the Terms or are unable to be bound by the Terms. Your use of the Foodies<b style="color:red;">S</b>pot Platform is at your own risk, including the risk that you might be exposed to content that is objectionable, or otherwise inappropriate.</p>
+
+            <p>In order to use the Services, you must first agree to the Terms. You can accept the Terms by:</p>
+            <ul type="circle">
+            <li><p>Clicking to accept or agree to the Terms, where it is made available to you by Foodies<b style="color:red;">S</b>pot in the user interface for any particular Service; </p></li><li><p>or
+            Actually using the Services. In this case, you understand and agree that Foodies<b style="color:red;">S</b>pot will treat your use of the Services as acceptance of the Terms from that point onwards.</p></li>
+            </ul>
+			<br><br><br>
+			<h2>II. Definitions</h2>
+			<h3>Customer</h3>
+            <p>"Customer" or "You" or "Your" refers to you, as a customer of the Services. A customer is someone who accesses or uses the Services for the purpose of sharing, displaying, hosting, publishing, transacting, or uploading information or views or pictures and includes other persons jointly participating in using the Services including without limitation a user having access to 'restaurant business page' to manage claimed business listings or otherwise.</p>
+
+            <h3>Content</h3>
+            <p>"Content" will include (but is not limited to) reviews, images, photos, audio, video, location data, nearby places, and all other forms of information or data. "Your content" or "Customer Content" means content that you upload, share or transmit to, through or in connection with the Services, such as likes, ratings, reviews, images, photos, messages, chat communication, profile information, or any other materials that you publicly display or displayed in your account profile. "Foodies<b style="color:red;">S</b>pot Content" means content that Foodies<b style="color:red;">S</b>pot creates and make available in connection with the Services including, but not limited to, visual interfaces, interactive features, graphics, design, compilation, computer code, products, software, aggregate ratings, reports and other usage-related data in connection with activities associated with your account and all other elements and components of the Services excluding Your Content and Third Party Content. "Third Party Content" means content that comes from parties other than Foodies<b style="color:red;">S</b>pot or its Customers and is available on the Services.</p>
+
+            <h3>Restaurant(s)</h3>
+            <p>"Restaurant" means the restaurants listed on Foodies<b style="color:red;">S</b>pot Platform.</p>
+
+            <h3>Merchant(s)</h3>
+            <p>Merchant means the merchant(s) listed on the Foodies<b style="color:red;">S</b>pot Platform and offering its Nutrition Products (defined herein below) to the Customers.</p>
+		    <br><br><br>
+			<h2>III. Eligibility to use the services</h2>
+            <ol type="1">
+            <li>You hereby represent and warrant that you are at least eighteen (18) years of age or above and are fully able and competent to understand and agree the terms, conditions, obligations, affirmations, representations, and warranties set forth in these Terms.</li>
+
+            <li>Compliance with Laws. You are in compliance with all laws and regulations in the country in which you live when you access and use the Services. You agree to use the Services only in compliance with these Terms and applicable law, and in a manner that does not violate our legal rights or those of any third party(ies).	</li>		
+			</ol>
+			<br><br><br>
+			<h2>IV. Changes in the terms</h2>
+			<p>Foodies<b style="color:red;">S</b>pot may vary or amend or change or update these Terms, from time to time entirely at its own discretion. You shall be responsible for checking these Terms from time to time and ensure continued compliance with these Terms. Your use of Foodies<b style="color:red;">S</b>pot Platform after any such amendment or change in the Terms shall be deemed as your express acceptance to such amended/changed terms and you also agree to be bound by such changed/amended Terms.</p>
+			<br><br><br>
+			<h2>V. Translation of the terms</h2>
+			<p>Foodies<b style="color:red;">S</b>pot may provide a translation of the English version of the Terms into other languages. You understand and agree that any translation of the Terms into other languages is only for your convenience and that the English version shall govern the terms of your relationship with Foodies<b style="color:red;">S</b>pot. Furthermore, if there are any inconsistencies between the English version of the Terms and its translated version, the English version of the Terms shall prevail over others.</p>
+			<br><br><br>
+			<h2>VI. Provision of the services being offered by Foodies<b style="color:red;">S</b>pot</h2>
+			<ol type="1">
+			<li>Foodies<b style="color:red;">S</b>pot is constantly evolving in order to provide the best possible experience and information to its Customers. You acknowledge and agree that the form and nature of the Services which Foodies<b style="color:red;">S</b>pot provides, may require affecting certain changes in it, therefore, Zomato reserves the right to suspend/cancel, or discontinue any or all products or services at any time without notice, make modifications and alterations in any or all of its contents, products and services contained on the site without any prior notice.</li>
+			<li>We, the software, or the software application store that makes the software available for download may include functionality to automatically check for updates or upgrades to the software. Unless your device, its settings, or computer software does not permit transmission or use of upgrades or updates, you agree that we, or the applicable software or software application store, may provide notice to you of the availability of such upgrades or updates and automatically push such upgrade or update to your device or computer from time-to-time. You may be required to install certain upgrades or updates to the software in order to continue to access or use the Services, or portions thereof (including upgrades or updates designed to correct issues with the Services). Any updates or upgrades provided to you by us under the Terms shall be considered part of the Services.</li>
+            <li>You acknowledge and agree that if Foodies<b style="color:red;">S</b>pot disables access to your account, you may be prevented from accessing the Services, your account details or any files or other content, which is contained in your account.</li>
+            <li>By using Foodies<b style="color:red;">S</b>pot's Services you agree to the following disclaimers:</li>
+			<ul type="circle">
+			<li>The Content on these Services is for informational purposes only. Foodies<b style="color:red;">S</b>pot disclaims any liability for any information that may have become outdated since the last time the particular piece of information was updated. Foodies<b style="color:red;">S</b>pot reserves the right to make changes and corrections to any part of the Content on these Services at any time without prior notice. Foodies<b style="color:red;">S</b>pot does not guarantee the quality of the Goods, the prices listed in menus or the availability of all menu items at any Restaurant/Merchant. Unless stated otherwise, all pictures and information contained on these Services are believed to be owned by or licensed to Foodies<b style="color:red;">S</b>pot. Please email a takedown request (by using the "Contact Us" link on the home page) to the webmaster if you are the copyright owner of any Content on these Services and you think the use of the above material violates Your copyright in any way. Please indicate the exact URL of the webpage in your request. All images shown here have been digitized by Foodies<b style="color:red;">S</b>pot. No other party is authorized to reproduce or republish these digital versions in any format whatsoever without the prior written permission of Foodies<b style="color:red;">S</b>pot.</li>
+			<li>Any certification, licenses or permits ("Certification") or information in regard to such Certification that may be displayed on the Restaurant's listing page or Nutrition Products' listing on the Foodies<b style="color:red;">S</b>pot Platform is for informational purposes only. Such Certification is displayed by Foodies<b style="color:red;">S</b>pot on an 'as available' basis that is provided to Foodies<b style="color:red;">S</b>pot by the Restaurant partner(s)/Merchant(s). Foodies<b style="color:red;">S</b>pot does not make any warranties about the validity, authenticity, reliability and accuracy of such Certification or any information displayed in this regard. Any reliance by a Customer upon the Certification or information thereto shall be strictly at such Customer's own risk and Foodies<b style="color:red;">S</b>pot in no manner shall assume any liability whatsoever for any losses or damages in connection with the use of this information or for any inaccuracy, invalidity or discrepancy in the Certification or non-compliance of any applicable local laws or regulations by the Restaurant partner/Merchant.</li>
+            </ul>
+			</ol>
+		</div>
+		
+		
+		
+		
+		<div class="box22">
+		    <ul type="circle">
+			    <li><h2><b>Acceptance of Terms</b></h2></li>
+				<li><h2><b>Definitions</b></h2></li>
+				    <ol type="1">
+					    <li>Customer</li>
+						<li>Content</li>
+						<li>Restaurant(s)</li>
+						<li>Merchant(s)</li>
+					</ol>
+				<li><h2><b>Eligibility to use services</b></h2></li>
+				<li><h2><b>Changes in the terms</b></h2></li>
+				<li><h2><b>Translations of the terms</b></h2></li>
+				<li><h2><b>Provision of the services being offered by Foodies<b style="color:red;">S</b>pot</b></h2></li>
+			</ul>
+		</div>
+	</div>
+</div>
+<!----**********------>	
+
+
+
+
+</body>
+</html>

@@ -1,0 +1,83 @@
+<!doctype html>
+<head>
+<!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+<script src="https://kit.fontawesome.com/4676f436ec.js" crossorigin="anonymous"></script>
+<link rel="stylesheet" href="signup.css">
+</head>
+<body>
+<form action="">
+<div class="mainsignuppage">
+    <img src="signupbackgroundimage.png" class="signupimage">
+	    <div class="signuppage">
+		    <div class="signupheading">
+			    <div class="signup"><h2>Sign Up</h2></div>
+				<div class="crossicon">
+				    <a href="finalproject.html"><i class="fas fa-times"></i></a>
+			    </div>
+			</div>
+			<div class="signupfirstbox">
+			    <input placeholder="Full Name" class="inputbox1" onclick="mehak()" required/>
+			</div>
+			
+			
+			<script>
+			function mehak(){
+			    var m=document.createElement("fieldset");
+				var e=document.createElement("legend");
+				var h=document.createTextNode("Enter Your Name");
+				m.appenChild(e);
+				e.appendChild(h);
+				var a=document.getElementsByClassName("signuppage")[0];
+				var k=document.getElementsByClassName("signupfirstbox")[0];
+				a.replaceChild(m,k);
+			}
+			</script>
+			
+			
+			<div class="signupsecondbox">
+			    <input type="email" placeholder="E-mail" class="inputbox2" required/>
+			</div>
+			<div class="checkbox">
+			    <input type="checkbox" required/>I agree to Foodies<b class="foodiesspot">S</b>pot's <a href="terms.html" target="_blank">Terms of Service</a> , <a href="privacy.html" target="_blank">Private Policy</a> & <a href="guidelines.html" target="_blank">Content Policies</a>
+			</div>
+            <div class="createaccount">
+                <form action="">
+                    <button class="accountbutton" onclick="sign()">Create Account</button>
+                </form>
+            </div>
+			
+			<script>
+			function sign(){
+			var i=document.getElementsByClassName("inputbox1")[0].value;
+			var j=document.getElementsByClassName("inputbox2")[0].value;
+			if(i==null||i==""||j==null||j==""){
+			    alert("Please fill all details to create account");
+			}
+			}
+			</script>
+			
+			
+			
+			
+            <div class="usepretag">
+                <pre>---------------------------------<b>or</b>-------------------------------</pre>
+            </div>
+            <div class="signupgoogle">
+			    <div class="googlecontainer">
+                    <div class="googleimage">
+                        <img src="googleicon.png" class="googleicons" height="15" width="15">
+                    </div>
+                    <div class="signupgoogle1">
+                        Continue with Google
+                    </div>
+				</div>
+            </div>
+            <div class="lastline">Already have an account? <a href="login(html).html" target="_self">Log in</a></div>
+        </div>
+</div>
+</form>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
+</body>
+</html>		

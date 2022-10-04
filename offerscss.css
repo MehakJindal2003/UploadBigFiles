@@ -1,0 +1,179 @@
+.offers{
+	background-image:url("offerback.png");
+}
+.dealhead{
+	display:flex;
+	flex-direction:row;
+}
+.dealhead{
+	padding-left:400px;
+}
+.deal1{
+	font-size:45px;
+	padding-top:35px;
+	padding-left:60px;
+	color:red;
+}
+.dealicon{
+	padding-top:20px;
+}
+.menuimage{
+	width:90%;
+	height:400px;
+	margin-left:70px;
+	border:4px solid black;
+	border-radius:10px;
+	margin-top:30px;
+	margin-bottom:30px;
+}
+.combo{
+	display:flex;
+	flex-direction:row;
+	margin:30px;
+	margin-top:50px;
+	border:5px solid black;
+	border-radius:10px;
+	padding-bottom:20px;
+	outline:4px dashed #A020F0;
+	outline-offset:5px;
+	background-image:linear-gradient(to right,#CBC3E3,white,#CBC3E3,white,#CBC3E3);
+}
+.comboimage1{
+	border:2px solid black;
+	border-radius:50%;
+	margin-top:50px;
+	margin-left:20px;
+	outline:3px dotted blue;
+	outline-offset:5px;
+}
+.click{
+	display:flex;
+	flex-direction:row;
+}
+.clickme{
+	font-size:30px;
+	color:red;
+	padding-left:220px;
+	padding-top:50px;
+	text-decoration:underline;
+}
+.fas{
+	padding-top:40px;
+	padding-left:20px;
+	color:red;
+}
+.combo2{
+	margin:30px;
+	margin-top:20px;
+	margin-left:60px;
+}
+.combo22{
+	font-size:35px;
+	color:red;
+	text-decoration:underline;
+}
+.combo222{
+	margin-left:80px;
+}
+.combo2222{
+	font-size:35px;
+	padding-top:20px;
+}
+.combo22222{
+	font-size:40px;
+	color:green;
+	margin-top:20px;
+}
+.java2{
+	font-size:45px;
+	font-size:45px;
+	padding-top:20px;
+	font-family:fantasy;
+}
+.menu2{
+	margin-top:90px;
+}
+.menu22{
+	width:100%;
+	border-radius:20px;
+}
+.discount{
+	margin-top:100px;
+}
+.couponimage{
+	width:100%;
+	height:300px;
+}
+.discounthead{
+	font-size:30px;
+	padding-left:400px;
+	text-decoration:underline;
+	font-family:cursive;
+	color:#8B0000;
+	background-image:linear-gradient(to right,#FFDBE9,white,#FFDBE9,white,#FFDBE9,white,#FFDBE9,white,#FFDBE9);
+}
+.discountbox{
+	display:flex;
+	flex-direction:row;
+	margin-top:20px;
+    padding-top:60px;
+	padding-left:110px;
+	background-image:linear-gradient(to right,pink,white,pink,white,pink);
+	padding-bottom:50px;
+}
+.box1{
+	padding-left:80px;
+}
+.boxoffer1{
+	border:3px solid black;
+	border-radius:20px;
+    margin-bottom:50px;
+	width:350px;
+	background-color:#D3D3D3;
+	height:550px;
+}
+.couponimage1,.couponimage2,.couponimage3{
+	border-radius:20px;
+}
+.discountoffer{
+	border-radius:20px;
+	border:4px solid #A020F0;
+	font-size:30px;
+	height:130px;
+	margin:20px;
+	margin-top:30px;
+	width:300px;
+	background-color:#FFEFFF;
+}
+.food{
+	color:red;
+}
+.boxoffer2{
+	background-color:#90EE90;
+	font-size:30px;
+	border-radius:20px;
+	border:3px solid blue;
+	width:360px;
+	height:60px;
+	padding-left:20px;
+	padding-bottom:20px;
+}
+.java{
+	font-size:35px;
+	font-family:fantasy;
+	margin-top:20px;
+	padding-left:100px;
+	letter-spacing:2px;
+}
+.java3,.java4{
+	font-size:35px;
+	font-family:fantasy;
+	margin-top:20px;
+	padding-left:35px;
+	letter-spacing:2px;
+}
+
+
+
+
+

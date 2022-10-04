@@ -1,0 +1,386 @@
+/* done by MEHAK*/
+
+*{
+	transition:all .7s ease-out;
+}
+html{
+	scroll-behavior:smooth;
+}
+.maindiv{
+	background-color:#F8F8F8;
+}
+header{
+	position:fixed;
+	top:0;
+	left:0;
+	right:0;
+}
+.sliderportion{
+	margin-top:150px;
+}
+.icon{
+	padding-bottom:30px;
+}
+.search_box{
+	padding-left:20px;
+	padding-top:30px;
+}
+#searchbox{
+	width:300px;
+}
+.active:hover{
+	background-color:white;
+	border-radius:20px;
+}
+#FFFF:visited{
+	color:blue;
+}
+.fa{
+	color:white;
+}
+
+
+/* ended by MEHAK*/
+
+
+
+
+
+/* done by RAVI*/
+nav{
+   display: flex;
+   height: 80px;
+   background-image:linear-gradient(to left,red,orange,yellow,green,blue,purple,violet);
+   position: relative;
+   justify-content: space-between;
+   text-align: center;
+   padding: 55px 40px;
+   border:2px solid black;
+}
+nav .icon{
+   font-size: 35px;
+   font-weight: 0;
+   color: #fff;
+   cursor: pointer;
+}
+nav ul{
+   display: flex;
+   list-style: none;
+   margin: auto 0;
+}
+nav ul li{
+   margin: 0 2px;
+}
+nav ul li a{
+   color: black;
+   font-size: 20px;
+   text-decoration: none;
+   text-transform: capitalize;
+   letter-spacing: 1px;
+   padding: 5px 10px;
+   border-radius: 10px;
+}
+/* ended by RAVI*/
+
+
+
+
+
+
+
+
+/* done by MEHAK (for about part)*/
+
+.about0{
+	display:flex;
+	flex-direction:row;
+	margin-bottom:200px;
+	font-size:18px;
+	margin-top:200px;
+}
+.aboutheading{
+	font-size:40px;
+}
+.about11{
+	margin-top:100px;
+}
+.about1 img{
+	height:1090px;
+	width:700px;
+	padding-right:20px;
+}
+.about2{
+	border-radius:20px;
+	border:4px solid black;
+	background-image:linear-gradient(to right,pink,white 50%,purple);
+}
+#j1,#j2,#j3,#j4,#j5{
+	background-color:pink;
+	color:black;
+	width:250px;
+	border-radius:20px;
+	border:2px solid black;
+	margin:0 auto;
+	padding-left:100px;
+}
+#j1:hover{
+	background-color:purple;
+	color:white;
+	width:200px;
+	padding-left:95px;
+}
+#j2:hover{
+	background-color:purple;
+	color:white;
+	width:200px;
+	padding-left:90px;
+}
+#j3:hover{
+	background-color:purple;
+	color:white;
+	width:200px;
+	padding-left:60px;
+}
+#j4:hover{
+	background-color:purple;
+	color:white;
+	width:200px;
+	padding-left:60px;
+}
+#j5:hover{
+	background-color:purple;
+	color:white;
+	width:250px;
+	padding-left:10px;
+}
+#abou1{
+	padding-top:100px;
+}
+.aboutheading{
+	color:blue;
+	background-image:linear-gradient(to right,red,white 50%,orange);
+	border:2px solid black;
+}
+.about2heading{
+	color:white;
+	background-image:linear-gradient(to right,yellow,orange,red,green,blue,purple);
+}
+#mj1,#mj2,#mj3,#mj4,#mj5{
+	border:2px dashed black;
+	border-radius:20px;
+	padding-bottom:20px;
+	margin:10px;
+	background-image:linear-gradient(aqua,white 50%);
+	
+}
+a:hover{
+	color:red;
+}
+a:visited{
+	color:green;
+}
+a:active{
+	color:aqua;
+}
+#m6{
+	margin:0 auto;
+	padding-left:30px;
+	padding-top:50px;
+	padding-bottom:30px;
+}
+.fas{
+	color:blaclk;
+	
+}
+.fas:hover{
+	color:white;
+	transform:rotate(180deg);
+}
+
+/* ended by MEHAK(for about part)*/
+
+
+
+
+
+
+
+
+
+/* done by MEHAK (for order part)*/
+
+.orderorderord{
+	margin-top:100px;
+}
+.ordernowheading{
+	color:white;
+	background-image:linear-gradient(to right,yellow,orange,red);
+	font-size:40px;
+}
+.ordernow2heading{
+	color:black;
+	background-image:linear-gradient(to right,#F5F5F5,#F0F0F0,#E0E0E0,#D0D0D0,#C0C0C0,#B0B0B0,#A0A0A0,#A8A8A8,#989898,#696969);
+	font-size:40px;
+}
+.ordernow{
+	font-size:25px;
+	height:650px;
+	border:4px solid black;
+	border-radius:20px;
+	padding:30px;
+	margin:30px;
+	background-image:linear-gradient(to right,pink,white 70%,purple);
+	padding-left:70px;
+}
+#or1,#or2,#or3,#or4,#or5,#or6,#or7,#or8{
+	border:2px solid black;
+	border-radius:20px;
+	width:600px;
+	height:100px;
+	padding:20px;
+}
+.inputbox{
+	width:530px;
+	height:50px;
+	border:2px solid black;
+	border-radius:20px;
+	background-color:#F0F0F0;
+	font-size:18px;
+	font-family:cursive;
+}
+.labelbox{
+	font-size:20pz;
+}
+.labelbox{
+	color:blue;
+}
+button{
+	background-color:blue;
+	color:white;
+	width:150px;
+	height:60px;
+	border:2px solid black;
+	border-radius:20px;
+}
+#o1{
+	margin-left:120px;
+}
+button:hover{
+	background-image:linear-gradient(to right,yellow,red,green);
+	color:white;
+	width:200px;
+	text-transform: capitalize;
+    transition: all .2s linear;
+}
+.buttonbutton{
+	padding-left:450px;
+	padding-top:20px;
+	padding-bottom:20px;
+
+}
+
+/* ended by MEHAK (for order part)*/
+
+
+
+
+
+
+
+
+
+
+
+
+/*start footer by prateek*/
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200;300;400;600;700&display=swap');
+
+:root{
+    --green:#27ae60;
+    --black:#192a56;
+    --light-color:#666;
+    --box-shadow:0 .5rem 1.5rem rgba(0,0,0,.1);
+}
+
+.footer{
+    font-family: 'Nunito', sans-serif;
+    margin:0; padding:0;
+    box-sizing: border-box;
+    text-decoration: none;
+    outline: none; border:none;
+    text-transform: capitalize;
+    transition: all .2s linear;
+}
+
+html{
+    font-size: 62.5%;
+    overflow-x: hidden;
+    scroll-padding-top: 5.5rem;
+    scroll-behavior: smooth;
+}
+
+.pra{
+    padding:2rem 9%;
+}
+
+section:nth-child(even){
+    background:#eee;
+}
+
+
+
+
+
+
+
+
+
+.footer .box-container{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(25rem, 1fr));
+    gap:1.5rem;
+}
+
+.footer .box-container .box h3{
+    padding:.5rem 0;
+    font-size: 2.5rem;
+    color:var(--black);
+}
+
+.footer .box-container .box a{
+    display: block;
+    padding:.5rem 0;
+    font-size: 1.5rem;
+    color:var(--light-color);
+}
+
+.footer .box-container .box a:hover{
+    color:var(--green);
+    text-decoration: underline;
+}
+
+.footer .credit{
+    text-align: center;
+    border-top: .1rem solid rgba(0,0,0,.1);
+    font-size: 2rem;
+    color:var(--black);
+    padding:.5rem;
+    padding-top: 1.5rem;
+    margin-top: 1.5rem;
+}
+
+.footer .credit span{
+    color:var(--green);
+}
+
+
+
+
+
+
+/*ended footer part*/
+
+
+
+
+

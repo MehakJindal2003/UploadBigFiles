@@ -1,0 +1,124 @@
+.loginimage{
+  position:absolute;
+  left:0px;
+  top:0px;
+  z-index:-2;
+  opacity:0.5;
+  width:100%;
+  height:100%;
+}
+.loginpage{
+	background-color:white;
+	border:5px solid black;
+	border-radius:20px;
+	width:400px;
+	height:500px;
+	margin:0 auto;
+	padding:50px;
+	margin-top:50px;
+	box-shadow:10px 10px 10px grey;
+	background-image:linear-gradient(grey,white,grey,white);
+}
+.firstline{
+	display:flex;
+	flex-direction:row;
+}
+.loginicon{
+	display:flex;
+	flex-direction:row-reverse;
+	margin-top:-30px;
+	margin-right:-30px;
+}
+.loginheading{
+	height:50px;
+	width:300px;
+	margin-left:100px;
+	padding-left:60px;
+}
+.firstbox{
+	display:flex;
+	flex-direction:row;
+	padding-top:20px;
+	padding-bottom:20px;
+	margin-top:30px;
+	border:2px solid black;
+	border-radius:20px;
+	background-color:white;
+}
+.indiaimage{
+	background-color:white;
+}
+.indiaflag{
+	padding-top:3px;
+}
+.logindropdown{
+	border:1px solid white;
+	background-color:white;
+}
+#dropdown{
+	border-color:white;
+	width:80px;
+}
+#phone{
+	border-color:grey;
+	width:275px;
+}
+.secondbox{
+	background-color:red;
+	margin-top:20px;
+	border:2px solid black;
+	border-radius:20px;
+}
+.loginbutton1{
+	width:395px;
+	border-radius:40px;
+	border-color:red;
+	background-color:red;
+}
+.middleline{
+	padding-top:20px;
+	padding-bottom:20px;
+}
+.thirdbox{
+	background-color:white;
+	color:blue;
+	margin-top:10px;
+	padding-left:130px;
+	border:2px solid black;
+	border-radius:20px;
+	padding-top:9px;
+	padding-bottom:9px;
+}
+.loginbutton2{
+	border:2px solid white;
+	background-color:white;
+}
+.fourthbox{
+	background-color:white;
+	color:blue;
+	margin-top:20px;
+	padding-left:130px;
+	border:2px solid black;
+	border-radius:20px;
+	padding-top:9px;
+	padding-bottom:7px;
+}
+.loginbutton3{
+	border:2px solid white;
+	background-color:white;
+}
+.fifthbox{
+	display:flex;
+	flex-direction:row;
+	margin-top:50px;
+	margin-left:70px;
+}
+.s{
+	color:red;
+}
+.fifthboxpart2{
+	padding-left:20px;
+}
+.createaccount{
+	color:red;
+}
